@@ -1,0 +1,1 @@
+https://api.telegram.org/bot7155442129:AAEaiRPW1qQ5YjEd6kx8NLbT9PI-k6jaAdw/setWebhook?url=<URL_API_GATEWAY>
