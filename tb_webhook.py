@@ -9,10 +9,7 @@ import json
 # Включаем логирование, чтобы не пропустить важные сообщения
 logging.basicConfig(level=logging.INFO)
 
-API_TOKEN = '7155442129:AAEaiRPW1qQ5YjEd6kx8NLbT9PI-k6jaAdw'
-
-
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = os.getenv("7155442129:AAEaiRPW1qQ5YjEd6kx8NLbT9PI-k6jaAdw")
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher()
 
